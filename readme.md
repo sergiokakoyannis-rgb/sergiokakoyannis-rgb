@@ -12,3 +12,8 @@
 - Mon objectif est de devenir développeur
 
 
+## Experiences
+
+- Coolblue
+- Colruyt logistic
+- batîment
