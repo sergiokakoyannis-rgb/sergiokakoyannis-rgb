@@ -17,3 +17,8 @@
 - Coolblue
 - Colruyt logistic
 - batîment
+
+### Parcours
+- cours du soir en gestion
+- etudes profesionnels maconnerie
+- etude science appliquées
