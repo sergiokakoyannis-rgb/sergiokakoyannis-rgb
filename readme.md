@@ -1,8 +1,3 @@
-![Moi](image.png)
-
-
-
-
 # 👋 Salut, moi c'est Sergio !
 
 💻 Passionné par le développement informatique, je me spécialise en **.NET et Angular**.
