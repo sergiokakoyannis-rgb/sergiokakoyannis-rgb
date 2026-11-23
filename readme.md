@@ -3,22 +3,9 @@
 
 
 
+# 👋 Salut, moi c'est Sergio !
 
+💻 Passionné par le développement informatique, je me spécialise en **.NET et Angular**.
 
-# Qui suis-je?
+🚀 Mon objectif ? Devenir développeur **Full Stack** et continuer à apprendre en créant mes propres projets.
 
-- Je m'appelle Sergio
-- J'ai 30 ans
-- Mon objectif est de devenir développeur
-
-
-## Experiences
-
-- Coolblue
-- Colruyt logistic
-- batîment
-
-### Parcours
-- cours du soir en gestion
-- etudes profesionnels maconnerie
-- etude science appliquées
